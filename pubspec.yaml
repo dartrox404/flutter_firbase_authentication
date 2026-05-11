@@ -46,6 +46,7 @@ dependencies:
   line_icons: ^2.0.3
   google_sign_in: ^7.2.0
   flutter_svg: ^2.3.0
+  iconsax: ^0.0.8
 
 dev_dependencies:
   flutter_test:
@@ -93,3 +94,6 @@ flutter:
       - family: poppins
         fonts:
           - asset: assets/fonts/Poppins-Regular.ttf
+      - family: raleway
+        fonts:
+          - asset: assets/fonts/Raleway-Regular.ttf

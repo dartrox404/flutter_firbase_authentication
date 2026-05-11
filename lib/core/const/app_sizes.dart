@@ -9,6 +9,7 @@ class AppSizes {
 
   // ====== SPECIFIC SPACING ======
   static const double kspace8 = 8.0;
+  static const double kspace5 = 5.0;
   static const double kspace10 = 10.0;
   static const double kspace12 = 12.0;
   static const double kspace16 = 16.0;

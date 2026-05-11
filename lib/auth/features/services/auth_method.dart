@@ -54,7 +54,7 @@ class AuthMethod {
         return "Password is too weak try stronger one";
       case "invalid email":
         return "Email is invalid try different one";
-      case "wrong-passsword":
+      case "wrong-password":
         return "Invalid password try again!";
       case "user-disabled":
         return "User is disabled or ban";
