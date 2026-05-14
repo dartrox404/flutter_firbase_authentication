@@ -1,4 +1,4 @@
-# 🔐 Flutter Firebase Authentication
+# 🔐 Flutter Firebase Web Authentication 
 
 A complete, production-ready Firebase Authentication system built with Flutter, Riverpod, and GoRouter. Features real-time form validation, auth state persistence, and route guards.
 
